@@ -1,0 +1,259 @@
+body
+{
+	margin:0px;
+	padding:0px;
+}
+*
+{margin:0px;
+padding:0px;
+}
+a
+{text-decoration:none;
+outline:none;
+}
+img
+{
+	border:none;
+}
+#wrap
+{
+	width:899px;
+	margin:0 auto;
+}
+#wrap-sup
+{
+	width:899px;
+	float:left;
+}
+#head
+{
+	width:899px;
+	float:left;
+	
+}
+#headlft
+{
+	width:160px;
+	float:left;
+	margin:53px 0 0 0;
+}
+#headlft h1
+{
+	width:161px;
+	height:154px;
+	float:left;
+	background:url(profilepic.jpg) no-repeat;
+}
+#headrht
+{width:732px;
+float:left;
+margin:45px 0 0 0;
+}
+#headrht h2
+{
+	width:600px;
+	float:left;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:50px;
+	color:#373737;
+	font-weight:normal;
+	margin:0 0 0 12px;
+}
+#head h2 span
+{
+	font-size:16px;
+}
+#head p
+{
+	width:150px;
+	float:left;
+	margin:30px 0 0 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#595959;
+	line-height:18px;
+}
+#head p.para
+{
+	float:right;
+	text-align:right;
+}
+#centertop
+{
+	width:899px;
+	float:left;
+	margin:25px 0 0 0;
+	border-top:#c9c9c9 solid 1px;
+	padding:0 0 60px 0;
+}
+#centertoplft
+{
+	width:160px;
+	float:left;
+	margin:40px 0 0 0;
+}
+#centertoplft h3
+{
+	width:152px;
+	float:left;
+	background:#e7e7e7;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#373737;
+	padding:8px 0 8px 8px;
+	font-weight:normal;
+}
+#centertoprht
+{
+	width:722px;
+	float:left;
+	margin:32px 0 0 12px;
+	border-bottom:#c9c9c9 solid 1px;
+}
+#centertoprht p.para1
+{
+	width:711px;
+	float:left;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#6a6b6b;
+	line-height:24px;
+	
+	padding:0 0 25px 0;
+}
+#centermidlft
+{
+	width:160px;
+	float:left;
+	margin:29px 0 0 0;
+}
+#centertop h3
+{
+	width:152px;
+	float:left;
+	background:#e7e7e7;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#373737;
+	padding:8px 0 8px 8px;
+	font-weight:normal;
+}
+	
+#centermidrht
+{
+	width:722px;
+	float:left;
+	margin:30px 0 0 12px;
+	border-bottom:#c9c9c9 solid 1px;
+	
+}
+#centertop h5
+{
+	width:500px;
+	float:left;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#525252;
+	font-weight:bold;
+}
+#centertop p.para
+{
+		width:auto;
+	float:right;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#525252;
+	font-weight:bold;
+	margin-right:3px;
+}
+	
+#centertop p.para2, ul.para2
+{
+	width:711px;
+	float:left;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#6a6b6b;
+	line-height:24px;
+	padding:0 0 25px 0;
+	margin:8px 0 0 0;
+}
+#centertop p.para3, ul.para3
+{
+	width:711px;
+	float:left;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#6a6b6b;
+	line-height:24px;
+	padding:0 0 0px 0;
+	margin:8px 0 0 0;
+}
+#centerskills
+{
+	width:160px;
+	float:left;
+	margin:29px 0 0 0;
+}
+#centerdownload
+{
+	width:160px;
+	float:left;
+	margin:29px 0 0 0;
+}
+#centerskillsrht
+{
+	width:722px;
+	float:left;
+	margin:30px 0 0 12px;
+	border-bottom:#c9c9c9 solid 1px;
+	
+}
+#centerexp
+{
+	width:160px;
+	float:left;
+	margin:29px 0 0 0;
+}
+#centerexpsrht
+{
+	width:722px;
+	float:left;
+	margin:30px 0 0 12px;
+	border-bottom:#c9c9c9 solid 1px;
+	
+}
+#centerpersonal
+{
+	width:160px;
+	float:left;
+	margin:29px 0 0 0;
+}
+#centerpersonalrht
+{
+	width:722px;
+	float:left;
+	margin:29px 0 0 12px;
+	
+}
+#centerpersonalrht label
+{
+	width:100px;
+	float:left;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	color:#525252;
+}
+#centerpersonalrht p.para3
+{
+	width:100%;
+	float:left;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#6a6b6b;
+	line-height:24px;
+	
+}
+	
+	
